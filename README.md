@@ -11,14 +11,14 @@ that make the Continuous Integration most effective getting the Continuous Deliv
 The infrastructure module will have the capability to create, startup and manage the necessary environment where build and deploy 
 all code changes pushed to the projects mainline in an automated way. 
 
-[Infrastructure Creator](https://www.github.com.com/JandaTheMan/infrastrucutre-creator.git)
+[Infrastructure Creator](https://github.com/JandaTheMan/infrastrucutre-creator)
 
 **Pipelines module**
 
 Pipelines module will provide to create pipelines for the projects to be executed on the environment created by the 
 infrastructure module. 
 
-[Jenkins Pipelines Library](https://www.github.com.com/JandaTheMan/jenkins-pipelines-library.git)
+[Jenkins Pipelines Library](https://github.com/JandaTheMan/jenkins-pipelines-library)
 
 ---
 
